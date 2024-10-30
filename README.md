@@ -1,6 +1,6 @@
 # 🛡️✨ Strong Password Generator ✨🛡️
 
-Welcome to the **Strong Password Generator**! 🔑 This JavaScript application helps you create unique and robust passwords, ensuring your online security. Let's get started on making your digital life safer! 🌐💻
+Welcome to the **Strong Password Generator**! **Am Valilian Peterson Mwendwa**🔑 This JavaScript application helps you create unique and robust passwords, ensuring your online security. Let's get started on making your digital life safer! 🌐💻
 
 ## 🚀 Features
 - **Customizable Length**: Generate passwords of any length you desire! 📏
@@ -42,4 +42,4 @@ Open your terminal application. 🖥️
 ### Step 2: Create a JavaScript File
 Create a new file named `password-generator.js` using your favorite text editor. For example:
 ```bash
-nano password-generator.js
+node password-generator.js
